@@ -1,6 +1,5 @@
 {
-  "folders": [
-    {
+  "folders": [{
       "path": ".",
       "name": "App Root"
     },
@@ -9,5 +8,7 @@
       "path": "functions"
     }
   ],
-  "settings": {}
+  "settings": {
+    "window.zoomLevel": -0.25
+  }
 }

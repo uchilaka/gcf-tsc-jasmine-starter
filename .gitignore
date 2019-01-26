@@ -2,3 +2,5 @@
 
 # Build
 functions/lib
+functions/.nyc_output
+functions/coverage
