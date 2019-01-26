@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "App Root"
+    },
+    {
+      "name": "GCP Functions",
+      "path": "functions"
+    }
+  ],
+  "settings": {}
+}
